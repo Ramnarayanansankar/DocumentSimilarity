@@ -152,8 +152,6 @@ Document3 Sample text with different words
 "Document2, Document3 Similarity: 0.50"
 ```
 
-**Obtained Output:**
-(Place your actual Hadoop output here once you run the job.)
 
 ---
 
