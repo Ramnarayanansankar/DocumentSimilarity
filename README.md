@@ -147,9 +147,9 @@ Document3 Sample text with different words
 **Expected Output**
 
 ```
-"Document1, Document2 Similarity: 0.56"
-"Document1, Document3 Similarity: 0.42"
-"Document2, Document3 Similarity: 0.50"
+(document2.txt, document1.txt)	-> 0.14
+(document3.txt, document1.txt)	-> 0.14
+(document3.txt, document2.txt)	-> 0.17
 ```
 
 
